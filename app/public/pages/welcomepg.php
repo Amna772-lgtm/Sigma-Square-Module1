@@ -32,7 +32,7 @@ if (!isset($_SESSION['user'])) {
     <div class="container container--welcome">
         <h2 class="welcome__title">Welcome, <?php echo htmlspecialchars($_SESSION['user']['name']); ?>!</h2>
         <p class="welcome__message">You have successfully logged in.</p>
-        <a href="../index.php" class="logout__link">Logout</a>
+        <a href="../index.html" class="logout__link">Logout</a>
     </div>
 </body>
 
