@@ -44,3 +44,4 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 [Sat Jul 27 08:34:05.556378 2024] [mpm_winnt:notice] [pid 2312:tid 568] AH00456: Server built: Apr 21 2020 13:46:54
 [Sat Jul 27 08:34:05.556378 2024] [core:notice] [pid 2312:tid 568] AH00094: Command line: 'C:\\Users\\Aims\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Aims/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Aims\\AppData\\Roaming\\Local\\run\\n1AcnCfm5\\conf\\apache\\apache2.conf'
 [Sat Jul 27 08:34:05.572009 2024] [mpm_winnt:notice] [pid 2312:tid 568] AH00418: Parent: Created child process 7952
+[Sat Jul 27 08:34:10.836239 2024] [mpm_winnt:notice] [pid 7952:tid 552] AH00354: Child: Starting 64 worker threads.
