@@ -24,3 +24,23 @@ AH00558: httpd.exe: Could not reliably determine the server's fully qualified do
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c1a0:f1ec:a452:d74b. Set the 'ServerName' directive globally to suppress this message
 AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c1a0:f1ec:a452:d74b. Set the 'ServerName' directive globally to suppress this message
 [Wed Jul 24 13:04:58.854684 2024] [mpm_winnt:notice] [pid 9572:tid 544] AH00354: Child: Starting 64 worker threads.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c1a0:f1ec:a452:d74b. Set the 'ServerName' directive globally to suppress this message
+[Thu Jul 25 12:01:21.997639 2024] [core:warn] [pid 4964:tid 840] AH00098: pid file C:/Users/Aims/AppData/Roaming/Local/run/n1AcnCfm5/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Jul 25 12:01:22.399686 2024] [mpm_winnt:notice] [pid 4964:tid 840] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu Jul 25 12:01:22.399686 2024] [mpm_winnt:notice] [pid 4964:tid 840] AH00456: Server built: Apr 21 2020 13:46:54
+[Thu Jul 25 12:01:22.400646 2024] [core:notice] [pid 4964:tid 840] AH00094: Command line: 'C:\\Users\\Aims\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Aims/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Aims\\AppData\\Roaming\\Local\\run\\n1AcnCfm5\\conf\\apache\\apache2.conf'
+[Thu Jul 25 12:01:22.487641 2024] [mpm_winnt:notice] [pid 4964:tid 840] AH00418: Parent: Created child process 7388
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c1a0:f1ec:a452:d74b. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::c1a0:f1ec:a452:d74b. Set the 'ServerName' directive globally to suppress this message
+[Thu Jul 25 12:01:30.328636 2024] [mpm_winnt:notice] [pid 7388:tid 860] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 27 08:31:15.656404 2024] [core:warn] [pid 7804:tid 576] AH00098: pid file C:/Users/Aims/AppData/Roaming/Local/run/n1AcnCfm5/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jul 27 08:31:15.687641 2024] [mpm_winnt:notice] [pid 7804:tid 576] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Jul 27 08:31:15.687641 2024] [mpm_winnt:notice] [pid 7804:tid 576] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Jul 27 08:31:15.687641 2024] [core:notice] [pid 7804:tid 576] AH00094: Command line: 'C:\\Users\\Aims\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Aims/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Aims\\AppData\\Roaming\\Local\\run\\n1AcnCfm5\\conf\\apache\\apache2.conf'
+[Sat Jul 27 08:31:15.740866 2024] [mpm_winnt:notice] [pid 7804:tid 576] AH00418: Parent: Created child process 3636
+[Sat Jul 27 08:31:18.537333 2024] [mpm_winnt:notice] [pid 3636:tid 876] AH00354: Child: Starting 64 worker threads.
+[Sat Jul 27 08:34:05.478294 2024] [core:warn] [pid 2312:tid 568] AH00098: pid file C:/Users/Aims/AppData/Roaming/Local/run/n1AcnCfm5/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Jul 27 08:34:05.556378 2024] [mpm_winnt:notice] [pid 2312:tid 568] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Sat Jul 27 08:34:05.556378 2024] [mpm_winnt:notice] [pid 2312:tid 568] AH00456: Server built: Apr 21 2020 13:46:54
+[Sat Jul 27 08:34:05.556378 2024] [core:notice] [pid 2312:tid 568] AH00094: Command line: 'C:\\Users\\Aims\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/Aims/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\Aims\\AppData\\Roaming\\Local\\run\\n1AcnCfm5\\conf\\apache\\apache2.conf'
+[Sat Jul 27 08:34:05.572009 2024] [mpm_winnt:notice] [pid 2312:tid 568] AH00418: Parent: Created child process 7952
